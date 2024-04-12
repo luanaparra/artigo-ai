@@ -5,10 +5,3 @@ label: "Pesquisa"
 # Pesquisa Bibliográfica
 
 ## Neurodiversidade
-
-
-
-
-
-## Referência 
-https://www.politize.com.br/neurodiversidade/
